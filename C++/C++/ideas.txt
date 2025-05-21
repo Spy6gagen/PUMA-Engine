@@ -1,0 +1,6 @@
+Alr now I want to edit it a bit so we need a 
+level designer so you can actually curate a map. 
+Specifically i want it to add lights, physics, models, texture, and vietpoints. 
+We will have a basic  first person controller. Models will be able to have custom scripts
+placed in them. Specifically you gotta have a xml file that will store all the 
+infomation about the level with the script's file location linked + model.

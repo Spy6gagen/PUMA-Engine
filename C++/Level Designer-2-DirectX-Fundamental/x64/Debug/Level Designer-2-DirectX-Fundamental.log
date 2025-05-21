@@ -1,0 +1,4 @@
+﻿  Main.cpp
+LINK : warning LNK4067: ambiguous entry point; selected 'WinMainCRTStartup'
+Main.obj : error LNK2019: unresolved external symbol wWinMain referenced in function WinMain
+C:\Users\TheGa\OneDrive\Desktop\Interlite Inc\Interlite Entertainment\Copper\DirectX\C++\x64\Debug\Level Designer-2-DirectX-Fundamental.exe : fatal error LNK1120: 1 unresolved externals
